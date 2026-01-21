@@ -35,16 +35,17 @@ Computational political communication scholar studying how AI-mediated text, ima
 
 ## Selected Projects
 **Negativity vs. Incivility on Facebook Partisan Pages**  
-Large-scale NLP analysis of 14 million posts from partisan Facebook pages (2008–2020).
+**Affective Language on Facebook and Polarization in the U.S. Public**  
+Large-scale analysis of 14 million posts from partisan Facebook pages (2008–2020), examining how affective political language relates to affective polarization over time. 
+*Methods*: Large-scale NLP (spaCy, transformer-based classifiers), time-series modeling, and human validation.
 
 **Cross-Ideological Sharing and Counterargument**  
-Bayesian network analysis of user–elite interactions on Twitter/X.
+Network analysis of user–elite interactions on Twitter/X.
+*Methods*: Bayesian network modeling, user–elite following networks, and counterargument detection.
 
 **Political Memes and Visual Polarization**  
-Human annotation and computer vision analysis of political memes and emotional engagement.
-
-**Methods**  
-Large-scale NLP (spaCy, transformer-based classifiers), time-series modeling, and human validation of political language.
+Multimodal analysis of political memes and emotional engagement.
+*Methods*: Human annotation (n ≈ 4,000), computer vision (face and object detection), and platform-level emotional engagement metrics.
 
 ---
 

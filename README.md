@@ -43,7 +43,7 @@ Bayesian network analysis of user–elite interactions on Twitter/X.
 **Political Memes and Visual Polarization**  
 Human annotation and computer vision analysis of political memes and emotional engagement.
 
-**Methods**
+**Methods**  
 Large-scale NLP (spaCy, transformer-based classifiers), time-series modeling, and human validation of political language.
 
 ---

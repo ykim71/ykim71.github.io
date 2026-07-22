@@ -1,12 +1,11 @@
 # Yujin Kim
 
-**Postdoctoral Research Fellow**  
-Wesleyan Media Project, Wesleyan University 
+**Computational Political Communication Researcher**  
 
 Computational political communication scholar studying how AI-mediated text, images, and platforms shape political polarization, news engagement, and democratic discourse.
 
-📧 ykim03@wesleyan.edu  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=IdC3UJEAAAAJ&hl=en) | [CV (PDF)](https://drive.google.com/file/d/1_Jemst_HXViTybtdSY4CNkz1APRU3RKM/view?usp=drive_link)
+📧 yujin71@gmail.com<br>
+🔗 [Google Scholar](https://scholar.google.com/citations?user=IdC3UJEAAAAJ&hl=en) | [Updated CV (PDF)](CV_Kim_07212026.pdf)
 
 ---
 
@@ -15,11 +14,13 @@ Computational political communication scholar studying how AI-mediated text, ima
 - AI and social media
 - Computational social science
 - Journalism and digital news ecosystems
-- Multimodal content analysis (text, image, video)
+- Multimodal & AI-generated content analysis (text, image, video)
 
 ---
 
 ## Publications
+- **Kim, Y.** (2026). Negativity vs. Incivility: How We Engage with Partisan Content on Facebook Over Time. *Mass Communication and Society*, 1-27. [DOI](https://doi.org/10.1080/15205436.2026.2687879)
+- Franz, M. M., Ridout, T. N., Fowler, E. F., **Kim, Y.**, Zhang, M., Floyd, B., & Oleinikov, P. (2026). Television and Digital Advertising in the 2024 U.S. Presidential Campaign. *Journal of Political Marketing*, 1-19. [DOI](https://doi.org/10.1080/15377857.2026.2667151)
 - Collier, C., **Kim, Y.** & Murray, C. (2026). The Composition and Amplification of Mainstream Partisan Memes: Evidence from 4 U.S. Election Cycles. Journal of Information Technology & Politics, 23(1), 72–87. [DOI](https://doi.org/10.1080/19331681.2024.2421390)
 - Gollust, S., **Kim, Y.**, Kissell, P. E., & Fowler, E. F. (2025). Using New Techniques to Examine the Past: A Computational Assessment of the First 50 Years of the Journal of Health Politics, Policy and Law. Journal of Health Politics, Policy and Law, 50(6), 847-875. [DOI](https://doi.org/10.1215/03616878-11995192) 
 - Fowler, E. F., Floyd, B., Zhang, M., **Kim, Y.**, Ridout, T. N., Oleinikov, P., & Franz, M. M. (2025). Election Advertising on Meta, Google, and Snapchat in 2024. The Forum, 22(2-3), 283-307. [DOI](https://doi.org/10.1515/for-2025-2011)
@@ -38,21 +39,26 @@ Computational political communication scholar studying how AI-mediated text, ima
 **Affective Language on Facebook and Polarization in the U.S. Public**  
 Large-scale analysis of 14 million posts from partisan Facebook pages (2008–2020), examining how affective political language relates to affective polarization over time. 
 *Methods*: Large-scale NLP (spaCy, transformer-based classifiers), time-series modeling, and human validation.
+[OSF Repository](https://osf.io/3w96k)
+[OSF Repository](https://osf.io/n4kgq/overview?view_only=ded4027cf0c74be7935e719958d5e926)
 
 **Cross-Ideological Sharing and Counterargument**  
 Network analysis of user–elite interactions on Twitter/X.
 *Methods*: Bayesian network modeling, user–elite following networks, and counterargument detection.
+[Havard Dataverse](https://doi.org/10.7910/DVN/FUIHXT)
 
 **Political Memes and Visual Polarization**  
 Multimodal analysis of political memes and emotional engagement.
 *Methods*: Human annotation (n ≈ 4,000), computer vision (face and object detection), and platform-level emotional engagement metrics.
+[OSF Preregistration](https://osf.io/tur28/overview)
 
 ---
 
 ## Teaching
+- Generative AI/LLM Tools for Data Analysis
+- DeltaLab: Computational Media Analysis
 - Machine Learning Methods for Audio and Video Analysis
 - Computational Text Analysis 
-- Generative AI/LLM Tools for Data Analysis
 
 ---
 ## Mentoring & Service

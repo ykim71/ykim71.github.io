@@ -116,7 +116,6 @@ def build_entry(work, key):
         fields.append(("pages", str(fp)))
     if doi:
         fields.append(("doi", doi))
-        fields.append(("html", f"https://doi.org/{doi}"))
     body = ",\n".join(f"  {k:<12}= {{{v}}}" for k, v in fields)
     return f"@{entry_type}{{{key},\n{body}\n}}\n"
 

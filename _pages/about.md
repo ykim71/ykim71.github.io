@@ -26,6 +26,11 @@ latest_posts:
   limit: 3
 ---
 
+<style>
+  /* Bold the name heading on the homepage */
+  .post-title { font-weight: 700; }
+</style>
+
 *Yujin is pronounced "YOO-jin" — like "you" + "gin."*
 
 I am a computational political communication researcher studying how language, visuals, and platforms shape political polarization, news engagement, and democratic discourse. My work combines large-scale computational methods — natural language processing, computer vision, and network analysis — with communication theory to understand how affective and partisan content circulates across social media and news ecosystems.

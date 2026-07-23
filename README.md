@@ -9,7 +9,7 @@ Personal academic website for Yujin Kim, built with the
 - **Publications:** `_bibliography/papers.bib` (rendered automatically by jekyll-scholar)
 - **Projects:** `_pages/projects.md`
 - **Teaching & service:** `_pages/teaching.md`
-- **CV:** replace `assets/pdf/CV_Kim_07212026.pdf`
+- **CV:** replace `assets/pdf/CV_Kim_public.pdf`
 - **Profile photo:** replace `assets/img/prof_pic.jpg` with your own photo (same filename)
 - **Name / URL / settings:** `_config.yml`
 - **Links (email, Google Scholar, CV):** `_data/socials.yml`

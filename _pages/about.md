@@ -26,8 +26,8 @@ latest_posts:
   limit: 3
 ---
 
-I am a computational political communication researcher studying how AI-mediated text, images, and platforms shape political polarization, news engagement, and democratic discourse. My work combines large-scale computational methods — natural language processing, computer vision, and network analysis — with communication theory to understand how affective and partisan content circulates across social media and news ecosystems.
+I am a computational political communication researcher studying how language, visuals, and platforms shape political polarization, news engagement, and democratic discourse. My work combines large-scale computational methods — natural language processing, computer vision, and network analysis — with communication theory to understand how affective and partisan content circulates across social media and news ecosystems.
 
-I am currently an Affiliated Research Associate at the [Center for Media Engagement](https://mediaengagement.org/) at The University of Texas at Austin. Previously, I was a Postdoctoral Fellow at the [Wesleyan Media Project](https://mediaproject.wesleyan.edu/) and at the Center for Media Engagement. I earned my PhD in Communication Studies from The University of Texas at Austin in 2022.
+I am currently an Affiliated Research Associate at the [Center for Media Engagement](https://mediaengagement.org/) at The University of Texas at Austin. Previously, I was a Postdoctoral Fellow at the [Wesleyan Media Project](https://mediaproject.wesleyan.edu/), and Postdoctoral Research Fellow and Knight Research Associate at the Center for Media Engagement. I earned my PhD in Communication Studies from The University of Texas at Austin in 2022.
 
 My recent projects examine negativity and incivility in partisan Facebook content, affective language and affective polarization at scale, cross-ideological sharing on Twitter/X, and multimodal analysis of political memes. You can find my work on my [publications](/publications/) page, [Google Scholar](https://scholar.google.com/citations?user=IdC3UJEAAAAJ&hl=en), and in my [CV](/assets/pdf/CV_Kim_07212026.pdf).

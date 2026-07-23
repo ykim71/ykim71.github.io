@@ -1,0 +1,34 @@
+name: Sync publications from OpenAlex
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # every Monday at 06:00 UTC
+  workflow_dispatch: # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch new publications from OpenAlex
+        run: python scripts/update_publications.py
+
+      - name: Commit updated bibliography
+        run: |
+          if git diff --quiet -- _bibliography/papers.bib; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _bibliography/papers.bib
+          git commit -m "chore: sync new publications from OpenAlex"
+          git push

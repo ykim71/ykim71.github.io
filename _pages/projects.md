@@ -14,4 +14,4 @@ nav_order: 3
 [Harvard Dataverse](https://doi.org/10.7910/DVN/FUIHXT)
 
 **Affective Language on Facebook and Polarization in the U.S. Public.** A large-scale analysis of roughly 14 million posts from partisan Facebook pages (2008–2020), examining how affective political language relates to affective polarization over time. *Methods:* large-scale NLP (spaCy, transformer-based classifiers), time-series modeling, and human validation.
-[OSF Data](https://osf.io/3w96k) · [OSF Project](https://osf.io/n4kgq/overview?view_only=ded4027cf0c74be7935e719958d5e926)
+[OSF Data](https://osf.io/3w96k)

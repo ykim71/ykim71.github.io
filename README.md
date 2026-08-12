@@ -14,6 +14,34 @@ Personal academic website for Yujin Kim, built with the
 - **Name / URL / settings:** `_config.yml`
 - **Links (email, Google Scholar, CV):** `_data/socials.yml`
 
+## Adding a publication
+
+Publications live in `_bibliography/papers.bib` and are approved by you — nothing is
+added automatically. To add one, paste this block at the **top** of the file (newest
+first), fill in the fields, and delete any you don't have:
+
+```bibtex
+@article{kim2027keyword,
+  bibtex_show = {true},
+  selected    = {true},
+  abbr        = {Pol. Comm.},
+  title       = {Your Paper Title},
+  author      = {Kim, Yujin and Coauthor, Name},
+  journal     = {Journal Name},
+  year        = {2027},
+  volume      = {00},
+  number      = {0},
+  pages       = {1--20},
+  doi         = {10.xxxx/xxxxxx}
+}
+```
+
+Notes: the citation key on the first line (`kim2027keyword`) must be unique; your name
+(`Kim, Yujin`) is bolded automatically; `selected = {true}` also lists it on the
+homepage (remove that line to keep it on the publications page only); the title links
+to the DOI automatically. For a conference paper, use `@inproceedings{...}` with
+`booktitle = {...}` instead of `journal`. Then commit and push.
+
 ## Deployment
 
 `.github/workflows/deploy.yml` builds the site and publishes it to the `gh-pages`

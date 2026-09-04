@@ -90,9 +90,12 @@ latest_posts:
 </section>
 
 <section class="home-section about-brief" aria-labelledby="about-brief-title">
-  <div>
+  <div class="about-brief__identity">
     <p class="eyebrow">About</p>
     <h2 id="about-brief-title">Communication theory, computational scale</h2>
+    <figure class="about-portrait">
+      <img src="/assets/img/yujin-kim-profile.webp" alt="Portrait of Yujin Kim" width="1236" height="1600" loading="lazy">
+    </figure>
   </div>
   <div class="about-brief__body">
     <p>I am an Affiliated Research Associate at the <a href="https://mediaengagement.org/">Center for Media Engagement</a> at The University of Texas at Austin. Previously, I was a Postdoctoral Fellow at the <a href="https://mediaproject.wesleyan.edu/">Wesleyan Media Project</a>, and a Postdoctoral Research Fellow and Knight Research Associate at the Center for Media Engagement.</p>

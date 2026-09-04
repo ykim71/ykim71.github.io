@@ -351,6 +351,18 @@ footer .container {
   margin-top: 0;
 }
 
+.about-portrait {
+  max-width: 18rem;
+  margin: 2.25rem 0 0;
+}
+
+.about-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 0;
+}
+
 .about-brief__body {
   font-size: 1.05rem;
 }

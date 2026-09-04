@@ -11,7 +11,7 @@ contact_note: >
 description: >
   Yujin Kim studies who sets the affective register of political information,
   from partisan actors and platform algorithms to generative AI models.
-footer_text: Research on political affect, platforms, visual communication, and AI.
+footer_text:
 keywords: computational political communication, political affect, AI neutrality, visual communication, social media, polarization
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.svg # the favicon in /assets/img/

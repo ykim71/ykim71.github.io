@@ -2,63 +2,16 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research on political affect across language, images, platforms, and AI.
+description: Selected research projects.
 nav: true
 nav_order: 3
 ---
 
-<div class="project-intro">
-  <p class="eyebrow">Selected research</p>
-  <p class="page-deck">Across these projects, I ask how political information acquires an emotional register, who or what amplifies it, and how those signals travel through public communication.</p>
-</div>
+**Political Memes and Visual Polarization.** Multimodal analysis of political memes and emotional engagement. *Methods:* human annotation (n ≈ 4,000), computer vision (face and object detection), and platform-level emotional engagement metrics.
+[OSF Preregistration](https://osf.io/tur28/overview)
 
-<div class="project-list">
-  <article class="project-case">
-    <div class="project-case__rail" aria-hidden="true"><span>01</span></div>
-    <div class="project-case__body">
-      <p class="project-kicker">Visual politics · Ongoing</p>
-      <h2>Political memes and visual polarization</h2>
-      <p class="project-question">How do visual and emotional features influence engagement with partisan memes?</p>
-      <p>This project connects what appears inside a political image—faces, objects, composition, and emotional cues—to the ways audiences respond on social platforms.</p>
-      <dl class="evidence-grid">
-        <div><dt>Material</dt><dd>≈4,000 political memes</dd></div>
-        <div><dt>Approach</dt><dd>Human annotation + computer vision</dd></div>
-        <div><dt>Outcome</dt><dd>Platform-level emotional engagement</dd></div>
-      </dl>
-      <a class="text-link text-link--arrow" href="https://osf.io/tur28/overview">View the OSF preregistration</a>
-    </div>
-  </article>
+**Cross-Ideological Sharing and Counterargument.** Network analysis of user–elite interactions on Twitter/X. *Methods:* Bayesian network modeling, user–elite following networks, and counterargument detection.
+[Harvard Dataverse](https://doi.org/10.7910/DVN/FUIHXT)
 
-  <article class="project-case">
-    <div class="project-case__rail" aria-hidden="true"><span>02</span></div>
-    <div class="project-case__body">
-      <p class="project-kicker">Networks · Cross-partisan communication</p>
-      <h2>Cross-ideological sharing and counterargument</h2>
-      <p class="project-question">When people share content from across the political aisle, are they endorsing it—or arguing against it?</p>
-      <p>This project studies the relationship between user–elite following networks and the language people use when political information crosses ideological boundaries.</p>
-      <dl class="evidence-grid">
-        <div><dt>Material</dt><dd>User–elite interactions on Twitter/X</dd></div>
-        <div><dt>Approach</dt><dd>Bayesian network modeling</dd></div>
-        <div><dt>Signal</dt><dd>Counterargument detection</dd></div>
-      </dl>
-      <a class="text-link text-link--arrow" href="https://doi.org/10.7910/DVN/FUIHXT">Explore the Harvard Dataverse</a>
-    </div>
-  </article>
-
-  <article class="project-case">
-    <div class="project-case__rail" aria-hidden="true"><span>03</span></div>
-    <div class="project-case__body">
-      <p class="project-kicker">Political language · Longitudinal</p>
-      <h2>Affective language and polarization in the U.S. public</h2>
-      <p class="project-question">Does the emotional register used by partisan actors move with affective polarization in the public?</p>
-      <p>A large-scale study of partisan Facebook pages connects changes in political language to changes in affective polarization over more than a decade.</p>
-      <dl class="evidence-grid">
-        <div><dt>Material</dt><dd>≈14 million Facebook posts</dd></div>
-        <div><dt>Period</dt><dd>2008–2020</dd></div>
-        <div><dt>Approach</dt><dd>NLP + time-series modeling</dd></div>
-      </dl>
-      <a class="text-link text-link--arrow" href="https://osf.io/3w96k">Explore the OSF data</a>
-    </div>
-  </article>
-
-</div>
+**Affective Language on Facebook and Polarization in the U.S. Public.** A large-scale analysis of roughly 14 million posts from partisan Facebook pages (2008–2020), examining how affective political language relates to affective polarization over time. *Methods:* large-scale NLP (spaCy, transformer-based classifiers), time-series modeling, and human validation.
+[OSF Data](https://osf.io/3w96k)

@@ -29,11 +29,12 @@ latest_posts:
       <a class="text-link" href="/assets/pdf/CV_Kim_public.pdf">Download CV</a>
     </div>
   </div>
-  <figure class="research-hero__visual">
-    <img src="/assets/img/research/affective-register.svg" alt="Diagram showing partisans, platforms, and AI models shaping the affective register of political information">
-    <figcaption>Who sets the tone—and with what consequences?</figcaption>
-  </figure>
 </section>
+
+<figure class="research-map">
+  <img src="/assets/img/research/affective-register.svg" alt="Diagram showing partisans, platforms, and AI models shaping the affective register of political information">
+  <figcaption>Who sets the tone—and with what consequences?</figcaption>
+</figure>
 
 <section class="home-section research-arc" aria-labelledby="research-arc-title">
   <header class="section-intro">
@@ -90,15 +91,15 @@ latest_posts:
 </section>
 
 <section class="home-section about-brief" aria-labelledby="about-brief-title">
-  <div class="about-brief__identity">
+  <div class="about-brief__content">
     <p class="eyebrow">About</p>
     <h2 id="about-brief-title">Communication theory, computational scale</h2>
-    <figure class="about-portrait">
-      <img src="/assets/img/yujin-kim-profile.webp" alt="Portrait of Yujin Kim" width="1236" height="1600" loading="lazy">
-    </figure>
+    <div class="about-brief__body">
+      <p>I am an Affiliated Research Associate at the <a href="https://mediaengagement.org/">Center for Media Engagement</a> at The University of Texas at Austin. Previously, I was a Postdoctoral Fellow at the <a href="https://mediaproject.wesleyan.edu/">Wesleyan Media Project</a>, and a Postdoctoral Research Fellow and Knight Research Associate at the Center for Media Engagement.</p>
+      <p>I earned my PhD in Communication Studies from The University of Texas at Austin in 2022. My research investigates how political information is produced, interpreted, and circulated across digital media, with particular attention to the roles of language, imagery, group identity, and emotion. I examine how these dynamics contribute to polarization and other challenges in contemporary public communication, as well as how healthier information environments might be supported. Drawing on theories of identity and information processing, I combine computational and quantitative methods with human annotation to connect communication theory with large-scale patterns of digital behavior.</p>
+    </div>
   </div>
-  <div class="about-brief__body">
-    <p>I am an Affiliated Research Associate at the <a href="https://mediaengagement.org/">Center for Media Engagement</a> at The University of Texas at Austin. Previously, I was a Postdoctoral Fellow at the <a href="https://mediaproject.wesleyan.edu/">Wesleyan Media Project</a>, and a Postdoctoral Research Fellow and Knight Research Associate at the Center for Media Engagement.</p>
-    <p>I earned my PhD in Communication Studies from The University of Texas at Austin in 2022. My research investigates how political information is produced, interpreted, and circulated across digital media, with particular attention to the roles of language, imagery, group identity, and emotion. I examine how these dynamics contribute to polarization and other challenges in contemporary public communication, as well as how healthier information environments might be supported. Drawing on theories of identity and information processing, I combine computational and quantitative methods with human annotation to connect communication theory with large-scale patterns of digital behavior.</p>
-  </div>
+  <figure class="about-portrait">
+    <img src="/assets/img/yujin-kim-profile.webp" alt="Portrait of Yujin Kim" width="1236" height="1600" loading="lazy">
+  </figure>
 </section>

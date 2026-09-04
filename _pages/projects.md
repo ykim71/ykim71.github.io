@@ -25,7 +25,6 @@ nav_order: 3
         <div><dt>Approach</dt><dd>Computational and human-centered analysis</dd></div>
         <div><dt>Focus</dt><dd>Longitudinal patterns in political communication and engagement</dd></div>
       </dl>
-      <a class="text-link text-link--arrow" href="https://osf.io/tur28/overview">View the OSF preregistration</a>
     </div>
   </article>
 

@@ -2,25 +2,28 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching experience.
+description: Courses and workshops in computational media, machine learning, and political communication.
 nav: true
 nav_order: 4
 ---
 
-## Wesleyan University
+<p class="page-deck">I teach computational methods as ways of asking sharper questions about media—not simply as technical tools. My courses connect methodological choices to interpretation, evidence, and public consequence.</p>
 
-**The mRNA Revolution** (MBB113) — Guest lecture, "The Politics of Distrust: Misinformation, Social Media & COVID Vaccine Hesitancy." *Apr 16, 2026.*
+<section class="teaching-section" aria-labelledby="wesleyan-heading">
+  <header><p class="eyebrow">Wesleyan University</p><h2 id="wesleyan-heading">Recent teaching</h2></header>
+  <div class="teaching-list">
+    <article><p class="course-code">MBB113 · Apr 2026</p><h3>The mRNA Revolution</h3><p>Guest lecture: “The Politics of Distrust: Misinformation, Social Media &amp; COVID Vaccine Hesitancy.”</p></article>
+    <article><p class="course-code">QAC387 · Spring 2026</p><h3>Generative AI / LLM Tools for Data Analysis</h3><p>Instructor, co-taught with Prof. Jennifer Rose.</p></article>
+    <article><p class="course-code">QAC378 · 2024–2026</p><h3>DeltaLab: Computational Media Analysis</h3><p>Affiliated Faculty; Assistant Instructor and Group Lead.</p></article>
+    <article><p class="course-code">QAC239 · 2024–2025</p><h3>Machine Learning Methods for Audio and Video Analysis</h3><p>Instructor, co-taught with Dr. Meiqing Zhang.</p></article>
+  </div>
+</section>
 
-**Generative AI / LLM Tools for Data Analysis** (QAC387) — Instructor, co-taught with Prof. Jennifer Rose. *Spring 2026.*
-
-**DeltaLab: Computational Media Analysis** (QAC378) — Affiliated Faculty; Assistant Instructor and Group Lead. *Fall 2024, Spring 2025, Fall 2025, Spring 2026.*
-
-**Machine Learning Methods for Audio and Video Analysis** (QAC239) — Instructor, co-taught with Dr. Meiqing Zhang (Proseminar). *Fall 2024, Spring 2025.*
-
-## The University of Texas at Austin
-
-**Social Media Effects** (CMS 390N) — Graduate workshop: Google API tutorial. Prof. Natalie J. Stroud. *Sept 22, 2020.*
-
-**Media Effects and Politics** (CMS 345) — Graduate Teaching Assistant. Prof. Natalie J. Stroud. *Spring 2020.*
-
-**Theories of Persuasion** (CMS 332K) — Graduate Teaching Assistant. Prof. Matt McGlone. *Fall 2016.*
+<section class="teaching-section" aria-labelledby="utaustin-heading">
+  <header><p class="eyebrow">The University of Texas at Austin</p><h2 id="utaustin-heading">Earlier teaching</h2></header>
+  <div class="teaching-list">
+    <article><p class="course-code">CMS390N · Sep 2020</p><h3>Social Media Effects</h3><p>Graduate workshop on the Google API for Prof. Natalie J. Stroud.</p></article>
+    <article><p class="course-code">CMS345 · Spring 2020</p><h3>Media Effects and Politics</h3><p>Graduate Teaching Assistant for Prof. Natalie J. Stroud.</p></article>
+    <article><p class="course-code">CMS332K · Fall 2016</p><h3>Theories of Persuasion</h3><p>Graduate Teaching Assistant for Prof. Matt McGlone.</p></article>
+  </div>
+</section>

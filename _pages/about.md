@@ -21,7 +21,7 @@ latest_posts:
 <section class="research-hero" aria-labelledby="research-thesis">
   <div class="research-hero__copy">
     <p class="eyebrow">Computational political communication</p>
-    <p id="research-thesis" class="research-thesis">I study who sets the <em>affective register</em> of political information.</p>
+    <p id="research-thesis" class="research-thesis">I study who and what set the <em>affective register</em> of political information.</p>
     <p class="research-deck">I use <em>affective register</em> to describe the emotional tone through which political information is produced, circulated, and interpreted. Partisan actors have long shaped that register, while platform algorithms have become important intermediaries in its circulation and amplification. AI models now play a growing role in how political information is generated, interpreted, and presented and, in turn, in what draws attention, prompts engagement, and contributes to polarization.</p>
     <p class="pronunciation">Yujin is pronounced “YOO-jin” — like “you” + “gin.”</p>
     <div class="hero-actions" aria-label="Primary links">

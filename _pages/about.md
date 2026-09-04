@@ -99,6 +99,6 @@ latest_posts:
   </div>
   <div class="about-brief__body">
     <p>I am an Affiliated Research Associate at the <a href="https://mediaengagement.org/">Center for Media Engagement</a> at The University of Texas at Austin. Previously, I was a Postdoctoral Fellow at the <a href="https://mediaproject.wesleyan.edu/">Wesleyan Media Project</a>, and a Postdoctoral Research Fellow and Knight Research Associate at the Center for Media Engagement.</p>
-    <p>I earned my PhD in Communication Studies from The University of Texas at Austin in 2022. My work combines natural language processing, computer vision, network analysis, and human annotation to understand political communication across modalities.</p>
+    <p>I earned my PhD in Communication Studies from The University of Texas at Austin in 2022. My research investigates how political information is produced, interpreted, and circulated across digital media, with particular attention to the roles of language, imagery, group identity, and emotion. I examine how these dynamics contribute to polarization and other challenges in contemporary public communication, as well as how healthier information environments might be supported. Drawing on theories of identity and information processing, I combine computational and quantitative methods with human annotation to connect communication theory with large-scale patterns of digital behavior.</p>
   </div>
 </section>

@@ -16,14 +16,14 @@ nav_order: 3
   <article class="project-case">
     <div class="project-case__rail" aria-hidden="true"><span>01</span></div>
     <div class="project-case__body">
-      <p class="project-kicker">Visual politics · Ongoing</p>
-      <h2>Political memes and visual polarization</h2>
-      <p class="project-question">How do visual and emotional features influence engagement with partisan memes?</p>
-      <p>This project connects what appears inside a political image—faces, objects, composition, and emotional cues—to the ways audiences respond on social platforms.</p>
+      <p class="project-kicker">Visual politics · Longitudinal and ongoing</p>
+      <h2>Partisan memes and affective engagement across election cycles</h2>
+      <p class="project-question">How do partisan memes and the engagement they attract change across election cycles?</p>
+      <p>This research began with a 2026 <em>Journal of Information Technology &amp; Politics</em> paper examining the composition and amplification of partisan memes across four U.S. election cycles. It has since developed into a broader research program tracing how partisan visual communication and affective engagement evolve over time.</p>
       <dl class="evidence-grid">
-        <div><dt>Material</dt><dd>≈4,000 political memes</dd></div>
-        <div><dt>Approach</dt><dd>Human annotation + computer vision</dd></div>
-        <div><dt>Outcome</dt><dd>Platform-level emotional engagement</dd></div>
+        <div><dt>Material</dt><dd>Partisan memes across multiple election cycles</dd></div>
+        <div><dt>Approach</dt><dd>Computational and human-centered analysis</dd></div>
+        <div><dt>Focus</dt><dd>Longitudinal patterns in political communication and engagement</dd></div>
       </dl>
       <a class="text-link text-link--arrow" href="https://osf.io/tur28/overview">View the OSF preregistration</a>
     </div>

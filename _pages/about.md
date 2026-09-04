@@ -54,7 +54,7 @@ latest_posts:
     <article class="arc-item">
       <span class="arc-index">03</span>
       <h3>AI models</h3>
-      <p>How generative and multimodal systems encode political affect while making claims to neutrality.</p>
+      <p>How generative and multimodal systems shape political information, interpretation, and engagement.</p>
     </article>
   </div>
 </section>

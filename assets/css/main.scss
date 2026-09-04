@@ -195,11 +195,11 @@ footer .container {
 }
 
 .research-hero__copy {
-  max-width: 58rem;
+  max-width: none;
 }
 
 .research-thesis {
-  max-width: 48rem;
+  max-width: none;
   margin: 0;
   font-family: "Source Serif 4", Georgia, serif;
   font-size: clamp(2.25rem, 5vw, 4.35rem);
@@ -233,28 +233,6 @@ footer .container {
   flex-wrap: wrap;
   gap: 1.5rem;
   margin-top: 2rem;
-}
-
-.research-map {
-  max-width: 58rem;
-  margin: 0 auto;
-}
-
-.research-map img {
-  display: block;
-  width: 100%;
-  border: 0;
-}
-
-.research-map figcaption {
-  margin-top: 0.8rem;
-  color: var(--global-text-color-light);
-  font-size: 0.72rem;
-  letter-spacing: 0.04em;
-}
-
-.home-section.research-arc {
-  margin-top: clamp(3rem, 6vw, 5rem);
 }
 
 .home-section {
@@ -380,7 +358,7 @@ footer .container {
 }
 
 .news {
-  margin-top: clamp(5rem, 10vw, 8rem);
+  margin-top: clamp(2.5rem, 5vw, 4rem);
 }
 
 .news h2,
@@ -388,14 +366,19 @@ footer .container {
   font-size: clamp(2rem, 4vw, 3rem);
 }
 
+.news h2 {
+  margin-bottom: 1.25rem;
+}
+
 .news table {
+  margin-top: 0;
   border-top: 1px solid var(--global-text-color);
 }
 
 .news table td,
 .news table th {
-  padding-top: 1.25rem;
-  padding-bottom: 1.25rem;
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
   border-bottom: 1px solid var(--global-divider-color);
 }
 
@@ -668,7 +651,7 @@ footer .container {
 
   .news table tr {
     display: block;
-    padding: 1rem 0;
+    padding: 0.75rem 0;
     border-bottom: 1px solid var(--global-divider-color);
   }
 
